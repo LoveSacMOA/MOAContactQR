@@ -1,14 +1,26 @@
-BEGIN:VCARD
-VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 16.5//EN
-N:Mall of America;LoveSac;;;
-FN:LoveSac Mall of America
-EMAIL;type=INTERNET;type=HOME;type=pref:mallofamerica@lovesac.com
-item1.TEL;type=pref:(320) 300-4518
-item1.X-ABLabel:Text
-item2.TEL:(952) 854-5105
-item2.X-ABLabel:Call
-NOTE:We’d love to help you out! Call or text us at any time if you have anyquestions or if you would like to purchase!
-item3.URL;type=pref:lovesac.com
-item3.X-ABLabel:_$!<HomePage>!$_
-END:VCARD
+BEGIN:VCARD
+
+VERSION:3.0
+
+PRODID:-//Apple Inc.//iPhone OS 16.5//EN
+
+N:Mall of America;LoveSac;;;
+
+FN:LoveSac Mall of America
+
+EMAIL;type=INTERNET;type=HOME;type=pref:mallofamerica@lovesac.com
+
+TEL;type=pref:(320) 300-4518
+
+
+
+TEL:(952) 854-5105
+
+
+NOTE:We’d love to help you out! Call or text us at any time if you have any questions or if you would like to purchase! Call us at 952 area code.Text us at 320 area code.
+
+item3.URL;type=pref:lovesac.com
+
+item3.X-ABLabel:_$!<HomePage>!$_
+
+END:VCARD
